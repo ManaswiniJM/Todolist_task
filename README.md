@@ -17,7 +17,9 @@ npm install
 3. Start server:
 node server.js
 
-4. API Endpoints
+4. The Postman collection for testing the Todo List API is included in this repository as `TodoList_API.postman_collection.json`.
+
+   ##API Endpoints
 
 See controllers/routes for:
 - `/api/auth/register` (POST)
