@@ -17,9 +17,7 @@ npm install
 3. Start server:
 node server.js
 
-4. Import the Postman collection (in `postman_collection.json`) to test endpoints.
-
-## API Endpoints
+4. API Endpoints
 
 See controllers/routes for:
 - `/api/auth/register` (POST)
@@ -30,4 +28,5 @@ See controllers/routes for:
 - `/api/tasks/category/:category` (GET)
 - `/api/tasks/:taskId/markCompleted` (POST)
 - `/api/tasks/:taskId/markPending` (POST)
+
 
